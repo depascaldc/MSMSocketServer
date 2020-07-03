@@ -1,5 +1,5 @@
-# MinecraftServermanager
-A Simple to use MinecraftServer installer and manager written in java
+# MSMSocketServer
+This is a Basic WebsocketServer to connect and Sync multiple instances of the MinecraftServermanager
 
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
